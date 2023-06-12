@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+  width: 250px;
+    margin-left: 100px;
+    margin-top: 100px;
+    border-style: dashed;
+}
+.div1{
+    height: 100px;
+    width: 100px;
+    background-color: deepskyblue;
+    margin: 10px;
+
+}
+.div2{
+    height: 150px;
+    width: 150px;
+    background-color: forestgreen;
+    margin: 10px;
+}
+.div3{
+    height: 200px;
+    width: 200px;
+    background-color: orchid;
+    margin: 10px;
+}
+.div1:hover{
+    background-color: red;
+}
+.div2:hover{
+    background-color: red;
+}
+.div3:hover{
+    background-color: red;
+}
+.t1{
+    font-size: larger;
+    color: red;
+}
+
